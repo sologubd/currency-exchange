@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.log
+
+# dotenv environment variables file
+.env
+
+# Mac files
+.DS_Store
